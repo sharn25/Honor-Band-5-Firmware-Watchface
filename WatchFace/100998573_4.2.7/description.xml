@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HwTheme>
+    <title>Quest</title>
+    <title-cn>Quest</title-cn>
+    <author>华为</author>
+    <designer>华为</designer>
+    <screen>HWHD03</screen>
+    <version>4.2.7</version>
+    <font>Default</font>
+    <font-cn>默认</font-cn>
+    <briefinfo>This little otter seems a bit lost in the desert, on a quest for water this otter will power through the day with you.
+    PS：This dial may use more power than the preset dials.</briefinfo>
+</HwTheme>
